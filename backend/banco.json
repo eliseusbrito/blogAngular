@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "nome": "Eliseu",
+      "mensagem": "Esta foi a primeira postagem!",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nome": "Lucas",
+      "mensagem": "Eu também fiz uma postagem!"
+    },
+    {
+      "id": 3,
+      "nome": "Gabriel",
+      "mensagem": "Mano também posta!"
+    }    
+  ]
+}
