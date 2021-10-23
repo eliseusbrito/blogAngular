@@ -1,8 +1,8 @@
 .parallax{
-    background-image: url('https://image.freepik.com/fotos-gratis/vista-aerea-de-um-leitura-mulher-um-jornal-e-computador-laptop-ligado-tabela-madeira_53876-24820.jpg');
+    background-image: url('./../../assets/perfil.jpg');
     min-height: 500px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
   }
